@@ -44,10 +44,3 @@ improve retention and revenue.
 ## Files
 - notebook.ipynb — complete analysis and code
 - report.docx — full project report with findings and recommendations
-
-
-### Cohort Retention Analysis
-![Cohort](cohort.png)
-
-### RFM Segmentation
-![RFM](rfm.png)
